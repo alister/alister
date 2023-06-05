@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Alister</h1>
-<h3 align="center">A backend PHP/Symfony developer from London, UK.</h3>
+<h1 align="center">I'm Alister Bulman</h1>
+<h3 align="center">PHP/Symfony developer, in London, UK</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alister" alt="alister" /></a> </p> -->
+I'm a (back-end) PHP developer - specialising in Symfony, Code quality and system optimisation. I love to keep up with technology and plan the systems & write code to help my sites handle mid-to-large scale and many users. Based in London, UK, but I've been working remotely for years.
 
-- 👨‍💻 All of my projects are available at [https://github.com/alister](https://github.com/alister)
-- 📝 I regularly write articles on [https://alister.github.io/](https://alister.github.io/)
+
+- 👨‍💻 All of my projects are available at **[https://github.com/alister](https://github.com/alister)**
+- 📝 I regularly write articles on **[https://alister.github.io/](https://alister.github.io/)**
 - 💬 Ask me about **Scaling PHP & Code-quality**
-- 📫 How to reach me **abulman@gmail.com**
-- Resume / CV link site [https://abulman.co.uk/](https://abulman.co.uk/)
+- 📫 How to reach me: **abulman@gmail.com**
+- ⚡ Resume / CV link site **[https://abulman.co.uk/](https://abulman.co.uk/)**
 
-# StackOverflow Activity
+### [StackOverflow Activity](https://stackoverflow.com/users/6216)
 <!-- STACKOVERFLOW:START -->
 - [Answer by Alister Bulman for Which rule can I use to change variable name?](https://stackoverflow.com/questions/75309289/which-rule-can-i-use-to-change-variable-name/75315862#75315862)
 - [Answer by Alister Bulman for Sitemap Routing in Symfony 6](https://stackoverflow.com/questions/75251100/sitemap-routing-in-symfony-6/75251257#75251257)
@@ -18,7 +19,7 @@
 - [Answer by Alister Bulman for Where and How I can modify the money_pattern of a MoneyType under Symfony 6](https://stackoverflow.com/questions/74247248/where-and-how-i-can-modify-the-money-pattern-of-a-moneytype-under-symfony-6/74247880#74247880)
 <!-- STACKOVERFLOW:END -->
 
-### Blog posts
+### [Tech-Blog posts](https://alister.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [The excellence of Symfony deprecations](https://alister.github.io/blog/2022/12/21/the-excellence-of-symfony-deprecations/)
 - [Links to Projects](https://alister.github.io/blog/2022/03/07/links-to-projects/)
@@ -30,7 +31,7 @@
 <a href="https://stackoverflow.com/users/6216" target="blank"><img align="center" src="./images/stack-overflow.svg" alt="Alister Bulman @ Stackoverflow" height="30" width="40" /></a>
 <a href="https://alister.github.io/" target="blank"><img align="center" src="./images/rss.svg" alt="alister.github.io tech-blog" height="30" width="40" /></a>
 <a href="https://mastodon.cloud/@Alister" target="blank"><img align="center" src="./images/Mastodon_Logotype_Simple.svg" alt="@Alister@mastodon.cloud" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alister.bulman" target="blank"><img align="center" src="./images/linked-in-alt.svg" alt="alister.bulman @ LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alisterbulman/" target="blank"><img align="center" src="./images/linked-in-alt.svg" alt="alister.bulman @ LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,10 +55,6 @@
   <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank" rel="noreferrer"><img src="./images/oh-my-zsh.png" alt="oh-my-zsh" height="40"/></a> 
 </p>
 
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alister&show_icons=true&locale=en&layout=compact" alt="alister" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alister&" alt="alister" /></p>
--->
 
 <!--
 ### Hi there 👋
@@ -74,3 +71,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<small>README generator based on output from https://github.com/rahuldkjain/github-profile-readme-generator </small>

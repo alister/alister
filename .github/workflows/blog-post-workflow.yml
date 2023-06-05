@@ -2,6 +2,9 @@ name: Latest blog post workflow
 on:
   schedule:
     - cron: '48 7 * * mon,thu'
+  push:
+    branches:
+      - main
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
