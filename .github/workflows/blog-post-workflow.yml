@@ -3,13 +3,16 @@ on:
   schedule:
     - cron: '48 7 * * mon,thu'
   workflow_dispatch:
-
+permissions:
+  contents: write # To write the generated contents to the readme
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://alister.github.io/index.xml'
+          feed_list: 'https://alister.github.io/index.xml, https://stackoverflow.com/feeds/user/6216'
