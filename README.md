@@ -11,6 +11,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Alister Bulman for Which rule can I use to change variable name?](https://stackoverflow.com/questions/75309289/which-rule-can-i-use-to-change-variable-name/75315862#75315862)
+- [Answer by Alister Bulman for Sitemap Routing in Symfony 6](https://stackoverflow.com/questions/75251100/sitemap-routing-in-symfony-6/75251257#75251257)
+- [Answer by Alister Bulman for Can I abort MessageEvent in Symfony from one of the attached listeners?](https://stackoverflow.com/questions/74642861/can-i-abort-messageevent-in-symfony-from-one-of-the-attached-listeners/74668546#74668546)
+- [Answer by Alister Bulman for Retrieve symfony parameters of RedirectResponse](https://stackoverflow.com/questions/74668260/retrieve-symfony-parameters-of-redirectresponse/74668345#74668345)
+- [Answer by Alister Bulman for Where and How I can modify the money_pattern of a MoneyType under Symfony 6](https://stackoverflow.com/questions/74247248/where-and-how-i-can-modify-the-money-pattern-of-a-moneytype-under-symfony-6/74247880#74247880)
 <!-- STACKOVERFLOW:END -->
 
 ### Blog posts
