@@ -21,6 +21,8 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The excellence of Symfony deprecations](https://alister.github.io/blog/2022/12/21/the-excellence-of-symfony-deprecations/)
+- [Links to Projects](https://alister.github.io/blog/2022/03/07/links-to-projects/)
+- [Projects](https://alister.github.io/projects/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
