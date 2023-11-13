@@ -13,11 +13,11 @@ I'm a (back-end) PHP developer - specialising in Symfony, Code quality and syste
 
 ### [StackOverflow Activity](https://stackoverflow.com/users/6216)
 <!-- STACKOVERFLOW:START -->
+- [Answer by Alister Bulman for Installing vendor library using composer](https://stackoverflow.com/questions/77466723/installing-vendor-library-using-composer/77466782#77466782)
 - [Answer by Alister Bulman for Which services to retain in Composer for authenticating with &#39;Sign In With Google&#39; button using Google&#39;s APIs Client Library for PHP?](https://stackoverflow.com/questions/77280133/which-services-to-retain-in-composer-for-authenticating-with-sign-in-with-googl/77317327#77317327)
 - [Answer by Alister Bulman for Rewriting PHPDocs based on the correct types](https://stackoverflow.com/questions/76497668/rewriting-phpdocs-based-on-the-correct-types/77218104#77218104)
 - [Answer by Alister Bulman for Which rule can I use to change variable name?](https://stackoverflow.com/questions/75309289/which-rule-can-i-use-to-change-variable-name/75315862#75315862)
 - [Answer by Alister Bulman for Sitemap Routing in Symfony 6](https://stackoverflow.com/questions/75251100/sitemap-routing-in-symfony-6/75251257#75251257)
-- [Answer by Alister Bulman for Can I abort MessageEvent in Symfony from one of the attached listeners?](https://stackoverflow.com/questions/74642861/can-i-abort-messageevent-in-symfony-from-one-of-the-attached-listeners/74668546#74668546)
 <!-- STACKOVERFLOW:END -->
 
 ### [Tech-Blog posts](https://alister.github.io/)
