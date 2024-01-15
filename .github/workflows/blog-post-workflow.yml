@@ -22,11 +22,19 @@ jobs:
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: 'https://stackoverflow.com/feeds/user/6216'
           date_format:	dddd, mmmm d, yyyy
-      - name: Pull in blog posts
+      - name: Pull in PHPScaling.com blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "PHPSCALING-LIST"
+          commit_message: "Updated readme with the latest PHPScaling blogposts"
+          feed_list: 'https://www.phpscaling.com/index.xml'
+          date_format:  dddd, mmmm d, yyyy
+          max_post_count: 3
+      - name: Pull in alister.github.io blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Updated readme with the latest blogposts"
+          commit_message: "Updated readme with the latest alister.github.io blogposts"
           feed_list: 'https://alister.github.io/index.xml'
-          date_format:	dddd, mmmm d, yyyy
+          date_format:  dddd, mmmm d, yyyy
           max_post_count: 3

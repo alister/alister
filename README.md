@@ -20,7 +20,11 @@ I'm a (back-end) PHP developer - specialising in Symfony, Code quality and syste
 - [Answer by Alister Bulman for Which rule can I use to change variable name?](https://stackoverflow.com/questions/75309289/which-rule-can-i-use-to-change-variable-name/75315862#75315862)
 <!-- STACKOVERFLOW:END -->
 
-### [Tech-Blog posts](https://alister.github.io/)
+### [PHPScaling.com posts](https://www.phpscaling.com/)
+<!-- PHPSCALING-LIST:START -->
+<!-- PHPSCALING-LIST:END -->
+
+### [Blog posts](https://alister.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [The excellence of Symfony deprecations](https://alister.github.io/blog/2022/12/21/the-excellence-of-symfony-deprecations/)
 - [Links to Projects](https://alister.github.io/blog/2022/03/07/links-to-projects/)
