@@ -15,13 +15,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in Stackoverflow answers
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: 'https://stackoverflow.com/feeds/user/6216'
-          date_format:	dddd, mmmm d, yyyy
+#      - name: Pull in Stackoverflow answers
+#        uses: gautamkrishnar/blog-post-workflow@v1
+#        with:
+#          comment_tag_name: "STACKOVERFLOW"
+#          commit_message: "Updated readme with the latest stackOverflow data"
+#          feed_list: 'https://stackoverflow.com/feeds/user/6216'
+#          date_format:	dddd, mmmm d, yyyy
       - name: Pull in PHPScaling.com blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
