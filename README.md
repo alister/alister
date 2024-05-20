@@ -13,11 +13,11 @@ I'm a (back-end) PHP developer - specialising in Symfony, Code quality and syste
 
 ### [StackOverflow Activity](https://stackoverflow.com/users/6216)
 <!-- STACKOVERFLOW:START -->
+- [Answer by Alister Bulman for How to access &quot;storage:ArrayObject:private&quot; property in Beanstalkd library Version 1.13+1+g91c54fc?](https://stackoverflow.com/questions/78499055/how-to-access-storagearrayobjectprivate-property-in-beanstalkd-library-versi/78499658#78499658)
 - [Answer by Alister Bulman for Queue worker freezes unexpectedly and requires restart work work again](https://stackoverflow.com/questions/77755825/queue-worker-freezes-unexpectedly-and-requires-restart-work-work-again/77758946#77758946)
 - [Answer by Alister Bulman for Installing vendor library using composer](https://stackoverflow.com/questions/77466723/installing-vendor-library-using-composer/77466782#77466782)
 - [Answer by Alister Bulman for Which services to retain in Composer for authenticating with &#39;Sign In With Google&#39; button using Google&#39;s APIs Client Library for PHP?](https://stackoverflow.com/questions/77280133/which-services-to-retain-in-composer-for-authenticating-with-sign-in-with-googl/77317327#77317327)
 - [Answer by Alister Bulman for Rewriting PHPDocs based on the correct types](https://stackoverflow.com/questions/76497668/rewriting-phpdocs-based-on-the-correct-types/77218104#77218104)
-- [Answer by Alister Bulman for Which rule can I use to change variable name?](https://stackoverflow.com/questions/75309289/which-rule-can-i-use-to-change-variable-name/75315862#75315862)
 <!-- STACKOVERFLOW:END -->
 
 ### [PHPScaling.com posts](https://www.phpscaling.com/)
