@@ -23,9 +23,9 @@ I'm a (back-end) PHP developer - specialising in Symfony, Code quality and syste
 
 ### [PHPScaling.com posts](https://www.phpscaling.com/)
 <!-- PHPSCALING-LIST:START -->
+- [Solving &#39;WP-CLI Updates Not Found&#39;](https://www.phpscaling.com/post/2026-01-20-wp-cli-update-not-found/)
 - [It&#39;s All About The Data &lpar;part 2&rpar;](https://www.phpscaling.com/post/its-all-about-the-data-2/)
 - [It&#39;s All About The Data &lpar;part 1&rpar;](https://www.phpscaling.com/post/its-all-about-the-data-1/)
-- [BunnyCDN via FlySystem on Symfony](https://www.phpscaling.com/post/flysystem-bunnycdn-on-symfony/)
 <!-- PHPSCALING-LIST:END -->
 
 ### [Blog posts](https://alister.github.io/)
