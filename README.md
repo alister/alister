@@ -30,9 +30,9 @@ I'm a (back-end) PHP developer - specialising in Symfony, Code quality and syste
 
 ### [Blog posts](https://alister.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [A year at the Passport Office](https://alister.github.io/blog/2026/a-year-at-the-passport-office/)
 - [A Good Tech-Test Interview](https://alister.github.io/blog/2026/good-tech-test-interview/)
 - [The excellence of Symfony deprecations](https://alister.github.io/blog/2022/12/21/the-excellence-of-symfony-deprecations/)
-- [Links to Projects](https://alister.github.io/blog/2022/03/07/links-to-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
