@@ -22,6 +22,9 @@ jobs:
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: 'https://stackoverflow.com/feeds/user/6216'
           date_format:	dddd, mmmm d, yyyy
+          user_agent: "Mozilla/5.0 (compatible; BlogPostWorkflow/1.0; +gautamkrishnar/blog-post-workflow)"
+          retry_count: 2
+          retry_wait_time: 2
       - name: Pull in PHPScaling.com blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
