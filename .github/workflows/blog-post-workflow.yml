@@ -14,7 +14,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
+      - name: Pull in PHPScaling.com blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "PHPSCALING-LIST"
+          commit_message: "Updated readme with the latest PHPScaling blogposts"
+          feed_list: 'https://www.phpscaling.com/index.xml'
+          date_format:  dddd, mmmm d, yyyy
+          max_post_count: 4
+      - name: Pull in alister.github.io blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "Updated readme with the latest alister.github.io blogposts"
+          feed_list: 'https://alister.github.io/index.xml'
+          date_format:  dddd, mmmm d, yyyy
+          max_post_count: 4
       - name: Pull in Stackoverflow answers
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -25,19 +41,3 @@ jobs:
           user_agent: "Mozilla/5.0 (compatible; BlogPostWorkflow/1.0; +gautamkrishnar/blog-post-workflow)"
           retry_count: 2
           retry_wait_time: 2
-      - name: Pull in PHPScaling.com blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "PHPSCALING-LIST"
-          commit_message: "Updated readme with the latest PHPScaling blogposts"
-          feed_list: 'https://www.phpscaling.com/index.xml'
-          date_format:  dddd, mmmm d, yyyy
-          max_post_count: 3
-      - name: Pull in alister.github.io blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Updated readme with the latest alister.github.io blogposts"
-          feed_list: 'https://alister.github.io/index.xml'
-          date_format:  dddd, mmmm d, yyyy
-          max_post_count: 3
